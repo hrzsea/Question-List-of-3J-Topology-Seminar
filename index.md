@@ -24,11 +24,11 @@ Ye Liu’s questions focus on the connections between the combinatorial data of 
 
 2.	For central complex arrangement, what topological information of Milnor fibre is determined by the intersection poset? This question is widely open in dimension greater than 2.
 
-3.	The celebrated K(pi, 1)-conjecture and Artin groups
+3.	The celebrated K(pi, 1)-conjecture and Artin groups.
 
 
 Others interesting problems include:
 
-1.	the covering type of Karoubi-Weibel is defined in terms of much strong condition than the Lusternik-Schnirelmann category, and is related to minimal triangulations of manifolds. There are a lot of unknown but interesting aspects of this new invariant, including the calculation of its value for many common manifolds and complexes, the possible product inequality and the whole rational homotopy theory of the invariant, etc  
+1.	the covering type of Karoubi-Weibel is defined in terms of much strong condition than the Lusternik-Schnirelmann category, and is related to minimal triangulations of manifolds. There are a lot of unknown but interesting aspects of this new invariant, including the calculation of its value for many common manifolds and complexes, the possible product inequality and the whole rational homotopy theory of the invariant, etc.  
 
 2.	the variation of the second part of Question 13 in (GTM 205, Rational homotopy theory): Which simply connected rational homotopy types occur as the Dold-Lashof classifying space $Baut_1(X)$ for fibrations with fibre the homotopy type of some $X$? This question is long standing and far from being resolved, though there are the models of $Baut_1(X)$ by Sullivan and Schlessinger-Stasheff.
