@@ -10,7 +10,7 @@ Is it possible to attach a top cell to a Chang complex to get a Poincare complex
 
 There are a lot of questions and open problems raised in the 2nd 3J seminar. Particular interests are on classical unstable homotopy theory and topology of hyperplane arrangements. Here is the brief summary.  
 
-Jie Wu’s questions focus on the essentials of EHP sequence in homotopy theory. His main point is about possible generalizations of this powerful tool, that is, to study EHP-type sequences for “general’’ complex rather than spheres. Based on his own research and interests, he then raised/recommended the following (for more details, please refer to [the slides of Jie Wu’s talk](3J-Topology-Seminar-talk(1).pdf):
+Jie Wu’s questions focus on the essentials of EHP sequence in homotopy theory. His main point is about possible generalizations of this powerful tool, that is, to study EHP-type sequences for “general’’ complex rather than spheres. Based on his own research and interests, he then raised/recommended the following (for more details, please refer to [the slides of Jie Wu’s talk](3J-Topology-Seminar-talk(1).pdf)):
 
 1.	the Hopf invariant problem for spherical fibrations over spheres;  
 2.	homotopy and geometry of exterior spaces, which serve as candidates of generalization of spheres in EHP-sequences;
@@ -18,7 +18,7 @@ Jie Wu’s questions focus on the essentials of EHP sequence in homotopy theory.
 4.	homotopy exponent problem and homotopy decomposition techniques;
 5.	the long standing Barratt conjecture and Cohen’s program.
 
-Ye Liu’s questions focus on the connections between the combinatorial data of hyperplane arrangements and their algebraic topology, especially on how to obtain topological information from the combinatorial aspects of arrangments. He then raised/recommended the following (for more details, please refer to [the Ye Liu’s summary on his survey talk](yeliuarransurvey.pdf):  
+Ye Liu’s questions focus on the connections between the combinatorial data of hyperplane arrangements and their algebraic topology, especially on how to obtain topological information from the combinatorial aspects of arrangments. He then raised/recommended the following (for more details, please refer to [the Ye Liu’s summary on his survey talk](yeliuarransurvey.pdf)):  
 
 1.	The face poset of a real hyperplane arrangement can provide more information than the intersection poset. In contrast to Rybnikovs counterexample, can we find a pair of real arrangements, with isomorphic intersection posets, but non-isomorphic face posets?  
 
